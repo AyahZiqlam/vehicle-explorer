@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+
+  api:
+    build:
+      context: .
+      dockerfile: VehicleExplorer.Api/Dockerfile
+    ports:
+      - "5000:5000"
+
+  frontend:
+    build:
+      context: ./vehicle-explorer-ui
+    ports:
+      - "8080:80"
+    depends_on:
+      - api
