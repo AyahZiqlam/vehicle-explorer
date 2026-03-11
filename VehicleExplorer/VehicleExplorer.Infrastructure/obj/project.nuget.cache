@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3glqG9yIm60=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aya\\Downloads\\VehicleExplorer-20260311T064453Z-3-001\\VehicleExplorer\\VehicleExplorer.Infrastructure\\VehicleExplorer.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aya\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\10.0.4\\microsoft.extensions.caching.abstractions.10.0.4.nupkg.sha512",
+    "C:\\Users\\Aya\\.nuget\\packages\\microsoft.extensions.caching.memory\\10.0.4\\microsoft.extensions.caching.memory.10.0.4.nupkg.sha512",
+    "C:\\Users\\Aya\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.4\\microsoft.extensions.dependencyinjection.abstractions.10.0.4.nupkg.sha512",
+    "C:\\Users\\Aya\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.4\\microsoft.extensions.logging.abstractions.10.0.4.nupkg.sha512",
+    "C:\\Users\\Aya\\.nuget\\packages\\microsoft.extensions.options\\10.0.4\\microsoft.extensions.options.10.0.4.nupkg.sha512",
+    "C:\\Users\\Aya\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.4\\microsoft.extensions.primitives.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
