@@ -20,3 +20,4 @@ C:\Users\Aya\Downloads\VehicleExplorer-20260311T064453Z-3-001\VehicleExplorer\Ve
 C:\Users\Aya\Downloads\VehicleExplorer-20260311T064453Z-3-001\VehicleExplorer\VehicleExplorer.Domain\obj\Debug\net10.0\refint\VehicleExplorer.Domain.dll
 C:\Users\Aya\Downloads\VehicleExplorer-20260311T064453Z-3-001\VehicleExplorer\VehicleExplorer.Domain\obj\Debug\net10.0\VehicleExplorer.Domain.pdb
 C:\Users\Aya\Downloads\VehicleExplorer-20260311T064453Z-3-001\VehicleExplorer\VehicleExplorer.Domain\obj\Debug\net10.0\ref\VehicleExplorer.Domain.dll
+C:\Users\Aya\Downloads\VehicleExplorer-20260311T064453Z-3-001\VehicleExplorer\VehicleExplorer.Domain\obj\Debug\net10.0\VehicleExplorer.Domain.sourcelink.json
